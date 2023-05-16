@@ -1,2 +1,2 @@
 # House_Price_India
-Machine Learning Algorithm used to predict price of houses in India
+Machine Learning Model to Predict House Price in India Dataset
